@@ -1,0 +1,7 @@
+com\hbj\Main.class
+com\hbj\entities\Client.class
+com\hbj\entities\ClientDto.class
+com\hbj\repositories\ClientRepository.class
+com\hbj\controllers\ClientsController.class
+com\hbj\controllers\HomeController.class
+com\hbj\repositories\JpaRepository.class
